@@ -124,6 +124,7 @@
 - [PayPal Developer Guides](https://developer.paypal.com/docs/) – Guides for integrating PayPal payments.
 
 ### Guides
+- [Anatomy of a Payment](https://digbijoylabs.github.io/anatomy-of-a-payment/) – Interactive Apache-2.0 payment-rail workbench and CC-BY-4.0 working paper covering authorization, clearing, settlement finality, ISO 20022, and double-entry ledger invariants.
 - [How Card Payments Work](https://www.investopedia.com/terms/c/card-not-present-transaction.asp) – End-to-end explanation of card payment processing.
 - [Global Payments Landscape](https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-map) – Overview of global payment systems.
 - [Embedded Payments Guide](https://stripe.com/guides/embedded-payments) – Building payments into platforms and products.
